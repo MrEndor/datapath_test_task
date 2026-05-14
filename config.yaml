@@ -1,0 +1,9 @@
+tape:
+  read_delay_ms: 0
+  write_delay_ms: 0
+  rewind_delay_ms: 0
+  shift_delay_ms: 0
+
+sorter:
+  ram_limit_bytes: 67108864  # 64 MiB
+  tmp_dir: ./tmp
